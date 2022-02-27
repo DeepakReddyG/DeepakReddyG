@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Java and Data Structures.
 - 💞️ I’m looking forward to contributing to open source.
 - 📫 You can reach me @Deepak Reddy Gathpa(linkedIn), @DeepakReddyG(Gitlab).
+- ![github](/mymac/Screenshot 2022-02-27 at 4.44.14 PM)
