@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Java and Data Structures.
 - 💞️ I’m looking forward to contributing to open source.
 - 📫 You can reach me @Deepak Reddy Gathpa(linkedIn), @DeepakReddyG(Gitlab).
-- ![github](Screenshot 2022-02-27)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepaKReddyG&hide=contribs,prs)
