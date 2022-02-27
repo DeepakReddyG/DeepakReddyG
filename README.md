@@ -4,3 +4,4 @@
 - 💞️ I’m looking forward to contributing to open source.
 - 📫 You can reach me @Deepak Reddy Gathpa(linkedIn), @DeepakReddyG(Gitlab).
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepaKReddyG&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakReddyG&show_icons=true)
